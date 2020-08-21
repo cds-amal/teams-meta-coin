@@ -1,0 +1,11 @@
+{
+  "name": "meta-coin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cds-amal/teams-meta-coin.git",
+  "author": "Amal Sudama <cds.sudama@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.6.4"
+  }
+}
